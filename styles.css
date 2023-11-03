@@ -1,0 +1,16 @@
+/* Set the text color for the whole page */
+body {
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+/* Style the header with centered text and padding */
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style links with a different color */
+a {
+    color: #007BFF;
+}
